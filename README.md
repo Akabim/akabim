@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, My name is Abimanyu!</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akabim" alt="akabim" /></a> </p>
-
 - 🔭 I’m currently working on **Anime Website**
 
 - 🌱 I’m currently learning **NextJS, VueJS, and ReactJs**
