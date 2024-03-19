@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Laravel, HTML, CSS, Javascript**
 
-- 📫 How to reach me **abimanyu.ari.d.123@gmail.com**
+- 📫 How to reach me **abimanyup.work@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
