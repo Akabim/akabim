@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Laravel Backend Developer**
 
-- 👨‍💻 All of my projects are available at [akabim.tech](akabim.tech)
+- 👨‍💻 All of my projects are available at [abim.me](abim.me)
 
 - 💬 Ask me about **Laravel, HTML, CSS, Javascript**
 
